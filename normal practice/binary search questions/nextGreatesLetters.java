@@ -20,7 +20,7 @@ public class nextGreatesLetters {
                 return arr[start%arr.length];    
         
             }
-        }
+        // }
 
         public char nextGreatestLetter2(char[] letters, char target) {
 // this is from kunal
